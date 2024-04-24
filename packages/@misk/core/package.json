@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@blueprintjs/core": "4.11.6",
-    "@blueprintjs/icons": "4.9.0",
+    "@blueprintjs/icons": "4.16.0",
     "@emotion/core": "10.3.1",
     "@emotion/styled": "10.3.0",
     "@misk/simpleredux": "0.6.3",

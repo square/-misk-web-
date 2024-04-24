@@ -26,7 +26,7 @@
     "@misk/simpleredux": "0.6.3",
     "@blueprintjs/core": "4.11.6",
     "@blueprintjs/datetime": "4.4.37",
-    "@blueprintjs/icons": "4.9.0",
+    "@blueprintjs/icons": "4.16.0",
     "@blueprintjs/select": "4.9.24",
     "@blueprintjs/table": "4.10.12",
     "@blueprintjs/timezone": "4.5.43",
