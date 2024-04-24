@@ -36,7 +36,7 @@
   "dependencies": {
     "@blueprintjs/core": "4.11.6",
     "@blueprintjs/datetime": "4.4.37",
-    "@blueprintjs/icons": "4.9.0",
+    "@blueprintjs/icons": "4.16.0",
     "@blueprintjs/select": "4.9.24",
     "axios": "1.6.8",
     "immutable": "4.3.5",
