@@ -51,7 +51,7 @@
     "react-router-dom": "6.4.3",
     "redux": "4.2.1",
     "redux-saga": "1.2.3",
-    "reselect": "4.1.6"
+    "reselect": "4.1.8"
   },
   "devDependencies": {
     "@misk/dev": "0.6.3",

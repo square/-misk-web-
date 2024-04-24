@@ -43,7 +43,7 @@
     "react-transition-group": "4.4.5",
     "redux": "4.2.1",
     "redux-saga": "1.2.3",
-    "reselect": "4.1.6",
+    "reselect": "4.1.8",
     "re-reselect": "4.0.1",
     "skeleton-css": "2.0.4",
     "status-code-enum": "1.0.0"
