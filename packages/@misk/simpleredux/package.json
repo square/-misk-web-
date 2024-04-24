@@ -42,7 +42,7 @@
     "react-dom": "16.14.0",
     "react-router": "6.4.3",
     "redux-saga": "1.2.3",
-    "reselect": "4.1.6",
+    "reselect": "4.1.8",
     "status-code-enum": "1.0.0"
   },
   "devDependencies": {
