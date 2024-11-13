@@ -85,10 +85,6 @@ module.exports = (env, argv) => {
       [`${relativePathPrefix}tab_${slug}`]: [
         "react-hot-loader/patch",
         path.join(dirname, "/src/index.tsx")
-      ], // two locations so local dev and through misk proxy works
-      [`tab_${slug}`]: [
-        "react-hot-loader/patch",
-        path.join(dirname, "/src/index.tsx")
       ]
     },
     output: {
