@@ -54,7 +54,7 @@
     "@misk/dev": "0.6.3",
     "@misk/prettier": "0.6.3",
     "@misk/test": "0.6.3",
-    "jest-emotion": "10.0.32",
+    "jest-emotion": "11.0.0",
     "@testing-library/dom": "9.2.0",
     "@testing-library/react": "9.1.1",
     "@types/jest": "29.5.12",

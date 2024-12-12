@@ -28,7 +28,7 @@
     "@blueprintjs/select": "4.9.24",
     "@blueprintjs/table": "4.10.12",
     "@blueprintjs/timezone": "4.5.43",
-    "@emotion/core": "10.3.1",
+    "@emotion/core": "11.0.0",
     "axios": "1.6.8",
     "enum-utils": "1.0.0",
     "http-method-enum": "1.0.0",
