@@ -24,7 +24,7 @@
     "@types/fs-extra": "9.0.13",
     "@types/node": "18.19.31",
     "@types/prop-types": "15.7.12",
-    "@types/react": "16.14.60",
+    "@types/react": "19.0.8",
     "prettier": "2.8.8",
     "tslib": "2.5.0",
     "typescript": "4.8.4",

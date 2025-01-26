@@ -16,8 +16,8 @@
     "@misk/simpleredux": "0.1.20-1",
     "@westegg/gatsby-theme-misk": "0.0.49",
     "gatsby": "5.13.4",
-    "react": "16.14.0",
-    "react-dom": "16.14.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
     "react-helmet": "6.1.0"
   },
   "devDependencies": {
